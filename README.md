@@ -9,4 +9,4 @@ Desafio 2 Docker
 # Exemplo
 > ao navegar para o localhost:8080 terá o resultado abaixo
 
-![Resultado](https://prnt.sc/12fg60c)
+> https://prnt.sc/12fg60c
