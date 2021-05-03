@@ -9,6 +9,4 @@ Desafio 2 Docker
 # Exemplo
 > ao navegar para o localhost:8080 terá o resultado abaixo
 
-<p align="center">
-  <img src="https://prnt.sc/12fg60c" width="350" title="Exemplo de execução">
-</p>
+![Resultado](https://prnt.sc/12fg60c)
